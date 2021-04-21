@@ -18,7 +18,13 @@ Easily control your home appliances using esp8266 and amazon alexa
 
 # SCHEMATIC
 <image src="images/Schematic_iotswitch_2021-04-21.png" width="800"> 
-
+ 
+ # HOW TO USE
+  ```
+1. search for the wifi created by the divice then connect to it
+2. enter your home wifi credentials
+3. then go to alexa app and search for new divices
+``` 
 
   
   **THIS PROJECT IS JUST A PROTOTYPE**
