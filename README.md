@@ -1,6 +1,6 @@
 # esp8266-VOICE-CONTROLLED-HOME-AUTOMATION-WITH-AMAZON-ALEXA
 Easily control your home appliances using esp8266 and amazon alexa
-<image src="images/" width="500"> 
+<image src="images/IMG_20210401_212734.jpg" width="500"> 
  
   # FEATURES
  ```
@@ -11,7 +11,7 @@ Easily control your home appliances using esp8266 and amazon alexa
 ``` 
 
 # SCHEMATIC
-<image src="" width="800"> 
+<image src="images/Schematic_iotswitch_2021-04-21.png" width="800"> 
 
 
   
